@@ -32,6 +32,7 @@ An exploratory analysis was conducted on rideshare data from the company PyBer i
   
 6. Total fare by city type (Ref: PyBer_fare_summary.png in analysis folder)
     - The total fares were consistently the highest in the 'Urban' city type between January 1st 2019 and April 28th 2019 (inclusive).
+    
             - The total fares were lower at the start of the year, slowly  increased over the next 8 weeks, staggered up and down for a few                   weeks until April, and then rose and seem to level off (though data from the following months would be needed to confirm that).
             - The highest grossing weeks were at the end of February and beginning of March.
     - The total fares were consistently the second highest in the 'Suburban' city type between January 1st 2019 and April 28th 2019                   (inclusive).
