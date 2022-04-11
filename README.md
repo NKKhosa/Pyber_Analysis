@@ -1,13 +1,10 @@
 # Pyber Analysis
 ## Overview
 
-The purpose of the new analysis is well defined. (3 pt)
-
 An exploratory analysis was conducted on rideshare data from the company PyBer inorder to improve access to ridesharing services and determine affordability. Various visualizations were created to better understand the data including: a bubble chart, box-and-whisker plots for multiple summary statistics, and pie charts. After finishing this analysis, it was decided that an addition multiple-line graph was needed to showcase the total weekly fares for each city type. 
 
 ## Results
 
-There is a description of the differences in ride-sharing data among the different city types.  
 1. Total rides (Ref: PyBer_summary.png in analysis folder)
   - The total number of rides were highest overall in the 'Urban' city types, with a count of 1,625.
   - The total number of rides were second highest in the 'Suburban' city types, with a count of 625.
