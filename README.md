@@ -6,40 +6,40 @@ An exploratory analysis was conducted on rideshare data from the company PyBer i
 ## Results
 
 1. Total rides (Ref: PyBer_summary.png in analysis folder)
-  - The total number of rides were highest overall in the 'Urban' city types, with a count of 1,625.
-  - The total number of rides were second highest in the 'Suburban' city types, with a count of 625.
-  - The total number of rides were lowest in the 'Rural' city types, with a count of 125.
+    - The total number of rides were highest overall in the 'Urban' city types, with a count of 1,625.
+    - The total number of rides were second highest in the 'Suburban' city types, with a count of 625.
+    - The total number of rides were lowest in the 'Rural' city types, with a count of 125.
  
 2. Total drivers (Ref: PyBer_summary.png in analysis folder)
-  - The total number of drivers were highest in the 'Urban' city type, with a count of 2,405.
-  - The total number of drivers were second highest in the 'Suburban' city type, with a count of 490.
-  - The total number of drivers were lowest in the 'Rural' city type, with a count of 78. 
+    - The total number of drivers were highest in the 'Urban' city type, with a count of 2,405.
+    - The total number of drivers were second highest in the 'Suburban' city type, with a count of 490.
+    - The total number of drivers were lowest in the 'Rural' city type, with a count of 78. 
   
 3. Total fares (Ref: PyBer_summary.png in analysis folder)
-  - The total amount of fares were highest in the 'Urban' city type, with a sum of $39,854.38.
-  - The total amount of fares were second highest in the 'Suburban' city type, with a sum of $19,356.33.
-  - The total amount of fares were lowest in the 'Rural' city type, with a sum of $4,327.93. 
+    - The total amount of fares were highest in the 'Urban' city type, with a sum of $39,854.38.
+    - The total amount of fares were second highest in the 'Suburban' city type, with a sum of $19,356.33.
+    - The total amount of fares were lowest in the 'Rural' city type, with a sum of $4,327.93. 
   
 4. Average fare per ride (Ref: PyBer_summary.png in analysis folder)
-  - The average fare per ride was highest in the 'Rural' city type, with an average cost of $34.62.
-  - The average fare per ride was second highest in the 'Suburban' city type, with an average cost of $30.97.
-  - The average fare per ride was lowest in the 'Urban' city type, with an average cost of $24.53.
+    - The average fare per ride was highest in the 'Rural' city type, with an average cost of $34.62.
+    - The average fare per ride was second highest in the 'Suburban' city type, with an average cost of $30.97.
+    - The average fare per ride was lowest in the 'Urban' city type, with an average cost of $24.53.
   
 5. Average fare per driver (Ref: PyBer_summary.png in analysis folder)
-  - The average fare per driver was highest in the 'Rural' city type, with an average cost of $55.49.
-  - The average fare per driver was second highest in the 'Suburban' city type, with an average cost of $39.50.
-  - The average fare per driver was lowest in the 'Urban' city type, with an average cost of $16.57.
+    - The average fare per driver was highest in the 'Rural' city type, with an average cost of $55.49.
+    - The average fare per driver was second highest in the 'Suburban' city type, with an average cost of $39.50.
+    - The average fare per driver was lowest in the 'Urban' city type, with an average cost of $16.57.
   
 6. Total fare by city type (Ref: PyBer_fare_summary.png in analysis folder)
-  - The total fares were consistently the highest in the 'Urban' city type between January 1st 2019 and April 28th 2019 (inclusive).
-    - The total fares were lower at the start of the year, slowly  increased over the next 8 weeks, staggered up and down for a few weeks until       April, and then rose and seem to level off (though data from the following months would be needed to confirm that).
-    - The highest grossing weeks were at the end of February and beginning of March.
-  - The total fares were consistently the second highest in the 'Suburban' city type between January 1st 2019 and April 28th 2019 (inclusive).
-    - The total fares were lower at the start of the year, then they steadily rose and dipped until the end of April where the data ends with         an upward momentum.
-    - The highest grossing week was at the end of February.
-  - The total fares were consistently the lowest in the 'Rural' city type between January 1st 2019 and April 28th 2019 (inclusive).
-    - The total fares were consistently low for the duration of the time period.
-    - the highest grossing week was at the beggining of April.
+    - The total fares were consistently the highest in the 'Urban' city type between January 1st 2019 and April 28th 2019 (inclusive).
+          - The total fares were lower at the start of the year, slowly  increased over the next 8 weeks, staggered up and down for a few weeks             until April, and then rose and seem to level off (though data from the following months would be needed to confirm that).
+          - The highest grossing weeks were at the end of February and beginning of March.
+    - The total fares were consistently the second highest in the 'Suburban' city type between January 1st 2019 and April 28th 2019                   (inclusive).
+          - The total fares were lower at the start of the year, then they steadily rose and dipped until the end of April where the data                   ends with an upward momentum.
+          - The highest grossing week was at the end of February.
+    - The total fares were consistently the lowest in the 'Rural' city type between January 1st 2019 and April 28th 2019 (inclusive).
+          - The total fares were consistently low for the duration of the time period.
+          - the highest grossing week was at the beggining of April.
 
 ## Summary
 
