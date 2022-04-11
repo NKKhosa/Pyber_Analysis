@@ -35,11 +35,11 @@ An exploratory analysis was conducted on rideshare data from the company PyBer i
         - The total fares were lower at the start of the year, slowly  increased over the next 8 weeks, staggered up and down for a few                   weeks until April, and then rose and seem to level off (though data from the following months would be needed to confirm that).
         - The highest grossing weeks were at the end of February and beginning of March.
     - The total fares were consistently the second highest in the 'Suburban' city type between January 1st 2019 and April 28th 2019                   (inclusive).
-          - The total fares were lower at the start of the year, then they steadily rose and dipped until the end of April where the data                   ends with an upward momentum.
-          - The highest grossing week was at the end of February.
+      - The total fares were lower at the start of the year, then they steadily rose and dipped until the end of April where the data                   ends with an upward momentum.
+      - The highest grossing week was at the end of February.
     - The total fares were consistently the lowest in the 'Rural' city type between January 1st 2019 and April 28th 2019 (inclusive).
-          - The total fares were consistently low for the duration of the time period.
-          - the highest grossing week was at the beggining of April.
+      - The total fares were consistently low for the duration of the time period.
+      - the highest grossing week was at the beggining of April.
 
 ## Summary
 
